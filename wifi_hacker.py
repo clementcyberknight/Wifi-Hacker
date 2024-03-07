@@ -40,9 +40,11 @@ Author: CyberKnight
 
 (0)About Me
 (00)Exit
+Tool created for education purpose only 
+Owner shall not be responsible for misuse or illegal purpose
 ----------------------------------------------------------------------- """
     )
-    print("\nEnter your choise here : !# ")
+    print("\nEnter your choise here : !#")
     var = int(input(""))
     if var == 1:
         print("\nEnter the interface:(Default(wlan0/wlan1))")
@@ -429,3 +431,4 @@ may reach to Hundreds of TeRa Bits so Be patiant
 
 
 intro()
+# Don't Seek What Is Not Looking For You
